@@ -1,0 +1,63 @@
+.container{
+    display: flex;
+    justify-content: left;
+   
+}
+
+.ber{
+   padding: 15px 30px;
+    background-color: rgb(0, 0, 0);
+   color: rgb(248, 252, 255);
+   border: none;
+   border-radius: 25px;
+   font-size: 25px;
+   top: 30%;
+}
+.lor{
+    width:500px;
+    
+   
+}
+ .reg{
+    right: 0;
+    position: absolute;
+   
+ }
+ .text-{
+    top: 15%;
+    
+    font-size: 25px;
+ }
+ .box-1{
+   width: 300px;
+   height: 150px;
+background-color: rgb(178, 249, 249);
+top: 80%;
+position: absolute;
+border-radius: 25px;
+padding-left: 10px;
+ }
+ .box-2{
+     width: 300px;
+   height: 150px;
+background-color: rgb(139, 139, 139);
+top: 80%;
+position: absolute;
+border-radius: 25px;
+padding-left: 10px;
+left: 350px;
+  
+
+ }
+ .box-3{
+   width: 613px;
+   height: 160px;
+   position: absolute;
+   background-color: rgb(228, 228, 228);
+  
+   border-radius: 25px;
+   top: 100%;
+    padding-left: 10px;
+   display: flex;
+   
+ }

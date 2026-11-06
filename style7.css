@@ -1,0 +1,52 @@
+.container{
+    display: flex;
+   gap: -30px;
+}
+.s1s{
+    width: 401px;
+    height: 318px;
+   font-size: 88px;
+   color: aliceblue;
+}
+.s2s{
+    width: 542px;
+    height: 128px;
+    font-size: 20px;
+
+}
+
+.box2{
+    margin-top: -10px;
+    color: aliceblue;
+    
+}
+.but1{
+      padding: 15px 30px;
+    background-color: rgb(254, 254, 254);
+   color: rgb(0, 0, 0);
+   border: none;
+   border-radius: 12px; 
+   font-size: 15px;
+  margin-top: 20px;
+}
+body{
+    background-color: rgb(8, 8, 39);
+}
+.bo2t{
+    width: 456px;
+    height: 464px;
+    font-size: 24px;
+    margin-left: 180px;
+    margin-top: -45px;
+}
+.box1{
+    color: aliceblue;
+    margin-left: 80px;
+}
+.nbv1{
+    margin-left: -45px;
+
+}
+.fad{
+    margin-left: 30px;
+}

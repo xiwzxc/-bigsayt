@@ -1,0 +1,154 @@
+.container{
+    display: flex;
+   gap: -10px;
+
+}
+.box1{
+    width: 76px;
+    height: 76px;
+    background-color: rgb(86, 86, 255);
+    border-radius: 16px;
+    margin-left: 300px;
+    
+    margin-top: 40px;
+
+}
+.box1text{
+    margin-left: 380px;
+  
+    
+    margin-top: -80px;
+    font-size: 13px;
+   
+}
+.nbv1{
+    margin-left:20px;
+    margin-top: 20px;
+    
+}
+.text{
+   font-size: 20px;
+   width: 300px;
+   margin-left: 90px;
+   margin-top: 60px;
+   
+}
+.box2{
+    width: 76px;
+    height: 76px;
+    background-color: rgb(255, 251, 0);
+    border-radius: 16px;
+    margin-left: 300px;
+    
+    margin-top: 100px;
+}
+.nbv2{
+    margin-left:20px;
+    margin-top: 20px;
+  
+}
+
+.box2text{
+    margin-left: 380px;
+    
+    font-size: 13px;
+    margin-top: -80px;
+}
+.box3{
+    width: 76px;
+    height: 76px;
+    background-color: rgb(239, 59, 224);
+    border-radius: 16px;
+    margin-left: 300px;
+    
+    margin-top: 100px;
+}
+.nbv3{
+    margin-left:20px;
+    margin-top: 20px;
+  
+}
+
+.box3text{
+    margin-left: 380px;
+    
+    font-size: 13px;
+    margin-top: -80px;
+}
+.box4{
+    width: 76px;
+    height: 76px;
+    background-color: rgb(242, 161, 235);
+    border-radius: 16px;
+    margin-left: 300px;
+    
+    margin-top: 50px;
+}
+.nbv4{
+    margin-left:20px;
+    margin-top: 20px;
+  
+}
+
+.box4text{
+    margin-left: 380px;
+    
+    font-size: 13px;
+    margin-top: -80px;
+}
+.box5{
+    width: 76px;
+    height: 76px;
+    background-color: rgb(174, 254, 93);
+    border-radius: 16px;
+    margin-left: 300px;
+    
+    margin-top: 100px;
+}
+.nbv5{
+    margin-left:20px;
+    margin-top: 20px;
+  
+}
+
+.box5text{
+    margin-left: 380px;
+    
+    font-size: 13px;
+    margin-top: -80px;
+}
+.box6{
+    width: 76px;
+    height: 76px;
+    background-color: rgb(103, 209, 255);
+    border-radius: 16px;
+    margin-left: 300px;
+    
+    margin-top: 100px;
+}
+.nbv6{
+    margin-left:20px;
+    margin-top: 20px;
+  
+}
+
+.box6text{
+    margin-left: 380px;
+    
+    font-size: 13px;
+    margin-top: -80px;
+}
+.nbv{
+    padding: 15px 30px;
+    background-color: rgb(0, 0, 0);
+   color: rgb(248, 252, 255);
+   border: none;
+   border-radius: 25px;
+   font-size: 15px;
+}
+.nbv7{
+    margin-left: 100px;
+    margin-top: 15px;
+
+}
+
